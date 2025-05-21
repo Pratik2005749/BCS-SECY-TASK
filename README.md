@@ -1,4 +1,4 @@
-# BCS-SECY-TASK(DANCE OF PLANETS): PREICTING POSITIONS OF BODIES UNDER MUTUAL GRAVITATION AT ANY TIME USNG NEURAL NETWORKS
+# BCS-SECY-TASK(DANCE OF PLANETS): PREDICTING POSITIONS OF BODIES UNDER MUTUAL GRAVITATION AT ANY TIME USNG NEURAL NETWORKS
 
 The main challenge in this task was to create your own training and testing dataset to train and test the model. The input parameters are masses of two bodies(m1 and m2),positions of the two bodies((x1,y1) and (x2,y2)), velocity vectors of the two bodies((v1x,v1y) and (v2x,v2y)), and time t at which we need to find the position. We had to predict final positions at time t((X1,Y1) and (X2,Y2)). All these parameters form the columns of the CSV files. Two methods were used to generate the dataset:
 
